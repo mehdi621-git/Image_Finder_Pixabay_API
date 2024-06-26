@@ -1,0 +1,33 @@
+
+.input{
+
+    font-size: 15px;
+    padding: 3px;
+    margin-right: 7px;
+    border-radius: 1%;
+    border: none;
+    outline: none;
+    height: 30px;
+    
+    
+}
+.maindiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    background-color: rgba(166, 112, 45, 0.803);
+    height: 50px;
+}
+.button{
+  
+    font-size: 20px;
+    border-radius: 8px;
+    width: 90px;
+    box-sizing: border-box;
+    background-color: rgba(17, 88, 241, 0.951);
+    color: white;
+}
+.button:hover{
+    cursor: pointer;
+}

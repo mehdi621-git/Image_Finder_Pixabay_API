@@ -1,0 +1,16 @@
+
+.main{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    
+}
+.mainn{
+    height: 70px;
+    background-color: rgba(231, 255, 15, 0.807);
+    font-size: 20px;
+   display: flex;
+   align-items: center;
+   padding-left: 20px;
+    
+}

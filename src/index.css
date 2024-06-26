@@ -1,0 +1,34 @@
+
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.cardset{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+
+}
+.singCard{
+  margin: 2px;
+
+
+
+}
+.card-img, .card-img-top, .card-img-bottom
+{
+  height: 200px;
+}
+.crum{
+   height: 20px;
+   width: 300px;
+   position:absolute;
+   margin-left: 20px;
+   top: 94%;
+}
+.word{
+  position: absolute;
+}
+.buttondownload{
+ margin: 6px;
+}
