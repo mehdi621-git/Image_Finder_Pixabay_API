@@ -1,4 +1,4 @@
-<h3>Text To Speech Converter</h3>
+<h3>Image Finder</h3>
 <h4>Introduction</h4>
 <p>The front-end is build using "React.js +Vite"</p>
 <p>This app finds High quality Images Using PixaBay API </p>
